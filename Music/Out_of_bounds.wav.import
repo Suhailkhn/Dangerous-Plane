@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Out_of_bounds.wav-525c52a67b9613c1a328d6be58ed6eac.sample"
+
+[deps]
+
+source_file="res://Music/Out_of_bounds.wav"
+dest_files=[ "res://.import/Out_of_bounds.wav-525c52a67b9613c1a328d6be58ed6eac.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

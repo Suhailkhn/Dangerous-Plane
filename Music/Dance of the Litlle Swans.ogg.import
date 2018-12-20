@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Dance of the Litlle Swans.ogg-ab539e8cc7c6f80c912be30377c18739.oggstr"
+
+[deps]
+
+source_file="res://Music/Dance of the Litlle Swans.ogg"
+dest_files=[ "res://.import/Dance of the Litlle Swans.ogg-ab539e8cc7c6f80c912be30377c18739.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

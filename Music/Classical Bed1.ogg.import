@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Classical Bed1.ogg-e2d2f66f9eba98e5f9d17272b3460085.oggstr"
+
+[deps]
+
+source_file="res://Music/Classical Bed1.ogg"
+dest_files=[ "res://.import/Classical Bed1.ogg-e2d2f66f9eba98e5f9d17272b3460085.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

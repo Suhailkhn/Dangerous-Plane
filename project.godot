@@ -1,0 +1,39 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=3
+
+[application]
+
+config/name="Dangerous Plane"
+run/main_scene="res://Scenes/SplashScreen.tscn"
+config/icon="res://Icon (2).png"
+
+[autoload]
+
+GLOBAL="*res://Scripts/Autoload/global.gd"
+ROOT="*res://Scripts/Autoload/Root.gd"
+Settings="*res://Scripts/Autoload/Settings.gd"
+
+[display]
+
+window/size/width=1200
+window/size/test_width=800
+window/size/test_height=400
+window/handheld/emulate_touchscreen=true
+
+[layer_names]
+
+2d_physics/layer_1="plane"
+2d_physics/layer_2="blades"
+2d_physics/layer_3="bullet"
+2d_physics/layer_4="spikes"
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
